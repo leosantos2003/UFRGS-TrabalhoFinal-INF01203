@@ -1,0 +1,9 @@
+Score: -9.00 | Sentença: O atendimento foi pessimo e horrivel
+Score: 10.00 | Sentença: Eu adoro este lugar ele é maravilhoso e incrivel
+Score: -1.30 | Sentença: O filme foi bom mas o final foi decepcionante
+Score: 4.70 | Sentença: Que dia feliz e alegre
+Score: -4.00 | Sentença: O produto apresentou um problema e a qualidade é ruim
+
+--------------------------------------------------
+Analise com Arvore AVL:
+Numero total de comparacoes: 160

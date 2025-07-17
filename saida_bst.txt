@@ -1,0 +1,9 @@
+Score: -9.00 | Sentenca: O atendimento foi pessimo e horrivel
+Score: 10.00 | Sentenca: Eu adoro este lugar ele é maravilhoso e incrivel
+Score: -1.30 | Sentenca: O filme foi bom mas o final foi decepcionante
+Score: 4.70 | Sentenca: Que dia feliz e alegre
+Score: -4.00 | Sentenca: O produto apresentou um problema e a qualidade é ruim
+
+--------------------------------------------------
+Analise com Arvore Binaria de Busca (BST):
+Numero total de comparacoes: 388
