@@ -1,6 +1,6 @@
 # Sentiment Analysis with Binary Trees (BST vs. AVL)
 
-**INF01203 - Estruturas de Dados - UFRGS - 2023/2**
+**INF01203 - Estruturas de Dados - UFRGS - Trabalho Final - 2023/2**
 
 ## About
 
